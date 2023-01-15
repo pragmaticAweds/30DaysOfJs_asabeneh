@@ -1,5 +1,5 @@
 /*
-Create a variable.js file and declare variables and assign string, boolean, undefined and null data types
+Question 4: Create a variable.js file and declare variables and assign string, boolean, undefined and null data types
 */
 
 // I create a new variable for string data type using the const keyword with a variable name of myName and assign AbdulAfeez to it as the value.
