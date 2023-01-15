@@ -10,9 +10,9 @@ const myName = "AbdulAfeez";
 
 const isName = true;
 
-// I create a new variable for undefined data type using the const keyword with a variable name of myNickname and assign undefined to it as the value.
+// I create a new variable for undefined data type using the let keyword with a variable name of myNickname and assign undefined no value to it.
 
-const myNickname = undefined;
+let myNickname;
 
 // I create a new variable for null data type using the const keyword with a variable name of myFavouriteName and assign null to it as the value.
 
